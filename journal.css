@@ -3,8 +3,10 @@
     src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"), url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
 }
 
-p {
+h1 {
     font-family: setofont;
+    font-size: 150%;
+    font-weight: bold;
 }
 
 p {
