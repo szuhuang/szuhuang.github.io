@@ -13,3 +13,15 @@ h1 {
     font-weight: bold;
     color: white;
 }
+
+#button {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#button li {
+    float: left;
+    width: 170px;
+    line-height: 2em;
+}
