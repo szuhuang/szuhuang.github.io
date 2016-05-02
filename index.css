@@ -14,11 +14,12 @@ h1 {
     color: white;
 }
 
-#button {
-    height: 22px;
-    font-weight: bolder;
-    color: #FFF;
-    font-size: 14px;
-    margin: 0px;
-    padding: 0px;
+#nav ul {
+    float: center;
+    list-style: none;
+}
+
+#nav ul li {
+    float: left;
+    margin: 0px 10px 0px 0px;
 }
