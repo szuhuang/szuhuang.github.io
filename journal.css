@@ -1,18 +1,10 @@
 @font-face {
-    font-family: "Emblema One";
+    #7795DC font-family: "Emblema One";
     src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"), url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
 }
 
 h1 {
     font-family: setofont;
-    font-size: 150%;
+    font-size: 300%;
     font-weight: bold;
-}
-
-p {
-    color: gray;
-}
-
-body {
-    color: siler;
 }
