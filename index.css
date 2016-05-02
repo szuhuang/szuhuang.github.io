@@ -14,14 +14,11 @@ h1 {
     color: white;
 }
 
-button {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-button li {
-    float: left;
-    width: 170px;
-    line-height: 2em;
+#button {
+    height: 22px;
+    font-weight: bolder;
+    color: #FFF;
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
 }
