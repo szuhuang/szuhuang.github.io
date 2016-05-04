@@ -4,7 +4,7 @@ div {
 
 .circle1 {
     box-sizing: border-box;
-    background-color: red;
+    background-color: #e67383;
     border-radius: 50%;
     color: white;
     position: fixed;
@@ -12,7 +12,7 @@ div {
     height: 300px;
     position: absolute;
     text-align: center;
-    padding: 80px;
+    padding: 60px;
     top: -75px;
     left: 180px;
     font-family: verdana;
@@ -20,14 +20,14 @@ div {
 
 .circle2 {
     box-sizing: border-box;
-    background-color: maroon;
+    background-color: #a41020;
     border-radius: 50%;
     color: white;
     position: absolute;
     width: 200px;
     height: 200px;
     text-align: left;
-    padding: 32px;
+    padding: 25px;
     top: 250px;
     left: 220px;
     font-size: 30%;
@@ -65,7 +65,7 @@ div {
 
 .circle5 {
     box-sizing: border-box;
-    background-color: maroon;
+    background-color: #a41020;
     border-radius: 50%;
     width: 120px;
     height: 120px;
@@ -80,19 +80,20 @@ div {
 
 .circle6 {
     box-sizing: border-box;
-    background-color: red;
+    background-color: #e67383;
     border-radius: 50%;
     width: 150px;
     height: 150px;
     color: yellow;
     bottom: -5px;
-    left: 250px;
+    left: 300px;
     position: absolute;
     text-align: center;
     padding: 30px;
     font-family: verdana;
+    color: #FFF;
 }
 
 body {
-    background-color: yellow;
+    background-color: #ffcdc5;
 }
