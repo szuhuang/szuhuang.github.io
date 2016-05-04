@@ -12,6 +12,7 @@ h1 {
     font-family: Georgia, Serif;
     font-weight: bold;
     color: white;
+    padding: 50px;
 }
 
 #nav ul {
@@ -21,14 +22,14 @@ h1 {
 
 #nav ul li {
     float: left;
-    margin: 100px 100px 100px 100px;
+    margin: 10px 10px 10px 10px;
 }
 
 .gubbe {
     width: 10%;
-    margin-left: 5px;
-    margin-bottom: 5px;
-    margin-right: 5px;
-    margin-top: 5px;
-    padding: 10%;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    margin-right: 3px;
+    margin-top: 3px;
+    padding: 50px;
 }
