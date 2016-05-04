@@ -12,9 +12,10 @@ div {
     height: 300px;
     position: absolute;
     text-align: center;
-    padding: 90px;
+    padding: 80px;
     top: -75px;
-    left: 200px;
+    left: 180px;
+    font-family: verdana;
 }
 
 .circle2 {
@@ -23,13 +24,14 @@ div {
     border-radius: 50%;
     color: white;
     position: absolute;
-    width: 180px;
-    height: 180px;
+    width: 200px;
+    height: 200px;
     text-align: left;
-    padding: 30px;
+    padding: 32px;
     top: 250px;
-    left: 130px;
-    font-size: 50%;
+    left: 220px;
+    font-size: 30%;
+    font-family: verdana;
 }
 
 .circle3 {
@@ -44,6 +46,7 @@ div {
     padding: 100px;
     top: 75px;
     left: 400px;
+    font-family: verdana;
 }
 
 .circle4 {
@@ -57,19 +60,22 @@ div {
     position: absolute;
     top: 60px;
     right: 350px;
+    font-family: verdana;
 }
 
 .circle5 {
     box-sizing: border-box;
     background-color: maroon;
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     color: white;
     position: fixed;
     bottom: 100px;
     right: 200px;
+    padding: 10px;
     text-align: center;
+    font-family: verdana;
 }
 
 .circle6 {
@@ -84,6 +90,7 @@ div {
     position: absolute;
     text-align: center;
     padding: 30px;
+    font-family: verdana;
 }
 
 body {
