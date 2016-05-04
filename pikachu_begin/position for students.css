@@ -94,6 +94,15 @@ div {
     color: #FFF;
 }
 
+.home {
+    text-align: center;
+    padding: 100px;
+    top: 400px;
+    left: 530px;
+    font-family: verdana;
+    position: absolute;
+}
+
 body {
     background-color: #ffcdc5;
 }
