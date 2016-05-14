@@ -1,0 +1,24 @@
+.col1 {
+    color: #fff;
+    background: #5C7080;
+}
+
+.col2 {
+    color: #fff;
+    background: #6BC0FF;
+}
+
+.col3 {
+    color: #fff;
+    background: #333333;
+}
+
+.col4 {
+    color: #fff;
+    background: #666666;
+}
+
+video {
+    position: fixed;
+    z-index: -100;
+}
