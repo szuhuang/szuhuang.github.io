@@ -21,7 +21,7 @@ h1 {
 }
 
 #nav ul li {
-    float: center;
+    float: left;
     margin: 10px 10px 10px 10px;
 }
 
